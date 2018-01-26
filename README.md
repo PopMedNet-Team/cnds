@@ -9,3 +9,7 @@ These files can be found in
 Lpp.Dns.Model/SQLScripts/Archive/DNS2_c_optional_MedicalCodes.sql
 DataMartClientDBSetup/Demonstration Query Tool.mdb
 After unzipping the files open the word document PopMedNet CNDS Build v3.docx to follow instructions on setting up an instance of CNDS.
+
+
+Please reach out to us at https://popmednet.atlassian.net/servicedesk/customer/portal/1/group/10 with questions or to report any problems.
+
