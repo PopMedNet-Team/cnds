@@ -8,6 +8,8 @@ DataMartClientDBSetup/Demonstration Query Tool.mdb
 
 After unzipping the files open the word document PopMedNet CNDS Build v3.docx to follow instructions on setting up an instance of CNDS.
 
+To set up an instance of the CNDS you will need a copy of the starter base which can be located: 
+https://popmednet.atlassian.net/wiki/spaces/DOC/pages/124685521/Starter+Database+6.0
 
 Please reach out to us at https://popmednet.atlassian.net/servicedesk/customer/portal/1/group/10 with questions or to report any problems.
 
