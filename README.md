@@ -17,3 +17,5 @@ After unzipping the files open the word document PopMedNet CNDS Build v3.docx to
 
 Please reach out to us at https://popmednet.atlassian.net/servicedesk/customer/portal/1/group/10 with questions or to report any problems.
 
+<a href="https://doi.org/10.5281/zenodo.1400707"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1400707.svg" alt="DOI"></a>
+
